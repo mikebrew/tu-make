@@ -83,31 +83,31 @@ projects[extlink][version] = "7.x-1.12"
 
 ;projects[fast_404][version] = "7.x-1.3"
 
-projects[features][version] = "7.x-2.0"
+;projects[features][version] = "7.x-2.0"
 
-projects[feeds][version] = "7.x-2.0-alpha8"
+;projects[feeds][version] = "7.x-2.0-alpha8"
 
-projects[feeds_xpathparser][version] = "7.x-1.0-beta4"
+;projects[feeds_xpathparser][version] = "7.x-1.0-beta4"
 
-projects[fences][version] = "7.x-1.0"
+;projects[fences][version] = "7.x-1.0"
 
-projects[field_collection][version] = "7.x-1.0-beta5"
+;projects[field_collection][version] = "7.x-1.0-beta5"
 
-projects[field_group][version] = "7.x-1.1"
+;projects[field_group][version] = "7.x-1.1"
 
-projects[field_permissions][version] = "7.x-1.0-beta2"
+;projects[field_permissions][version] = "7.x-1.0-beta2"
 
-projects[filefield_sources][version] = "7.x-1.9"
+;projects[filefield_sources][version] = "7.x-1.9"
 
-projects[fontyourface][version] = "7.x-2.5"
+;projects[fontyourface][version] = "7.x-2.5"
 
-projects[front][version] = "7.x-2.1"
+;projects[front][version] = "7.x-2.1"
 
-projects[globalredirect][version] = "7.x-1.5"
+;projects[globalredirect][version] = "7.x-1.5"
 
-projects[google_analytics][version] = "7.x-1.3"
+;projects[google_analytics][version] = "7.x-1.3"
 
-projects[honeypot][version] = "7.x-1.16"
+;projects[honeypot][version] = "7.x-1.16"
 
 ;projects[imce][version] = "7.x-1.6"
 
