@@ -21,21 +21,21 @@ projects[drupal][download][url] = "http://www.acquia.com/downloads/3191106/full/
 
 projects[adaptive_image][version] = "7.x-1.4"
 
-;projects[admin_menu][version] = "7.x-3.0-rc3"
+projects[admin_menu][version] = "7.x-3.0-rc3"
 
-;projects[admin_views][version] = "7.x-1.2"
+projects[admin_views][version] = "7.x-1.2"
 
-;projects[advanced_help][version] = "7.x-1.0"
+projects[advanced_help][version] = "7.x-1.0"
 
-;projects[auto_nodetitle][version] = "7.x-1.0"
+projects[auto_nodetitle][version] = "7.x-1.0"
 
 projects[backup_migrate][version] = "7.x-2.4"
 
-;projects[bean][version] = "7.x-1.7"
+projects[bean][version] = "7.x-1.7"
 
-;projects[block_class][version] = "7.x-1.1"
+projects[block_class][version] = "7.x-1.1"
 
-;projects[blockify][version] = "7.x-1.2"
+projects[blockify][version] = "7.x-1.2"
 
 ;projects[calendar][version] = "7.x-3.4"
 
