@@ -155,63 +155,63 @@ projects[node_clone][version] = "7.x-1.0-rc1"
 
 projects[node_export][version] = "7.x-3.0"
 
-projects[oauth][version] = "7.x-3.1"
+;projects[oauth][version] = "7.x-3.1"
 
-projects[omega_tools][version] = "7.x-3.0-rc4"
+;projects[omega_tools][version] = "7.x-3.0-rc4"
 
-projects[override_node_options][version] = "7.x-1.12"
+;projects[override_node_options][version] = "7.x-1.12"
 
-projects[page_title][version] = "7.x-2.7"
+;projects[page_title][version] = "7.x-2.7"
 
-projects[panels][version] = "7.x-3.3"
+;projects[panels][version] = "7.x-3.3"
 
-projects[pathauto][version] = "7.x-1.2"
+;projects[pathauto][version] = "7.x-1.2"
 
-projects[profile2][version] = "7.x-1.2"
+;projects[profile2][version] = "7.x-1.2"
 
-projects[profile2_regpath][version] = "7.x-1.10"
+;projects[profile2_regpath][version] = "7.x-1.10"
 
-projects[quickbar][version] = "7.x-2.0-beta1"
+;projects[quickbar][version] = "7.x-2.0-beta1"
 
-projects[quicktabs][version] = "7.x-3.6"
+;projects[quicktabs][version] = "7.x-3.6"
 
-projects[readonlymode][version] = "7.x-1.1"
+;projects[readonlymode][version] = "7.x-1.1"
 
-projects[recaptcha][version] = "7.x-1.8"
+;projects[recaptcha][version] = "7.x-1.8"
 
-projects[redirect][version] = "7.x-1.0-rc1"
+;projects[redirect][version] = "7.x-1.0-rc1"
 
-projects[references][version] = "7.x-2.0"
+;projects[references][version] = "7.x-2.0"
 
-projects[resp_img][version] = "7.x-1.3"
+;projects[resp_img][version] = "7.x-1.3"
 
-projects[respondjs][version] = "7.x-1.1"
+;projects[respondjs][version] = "7.x-1.1"
 
-projects[restrict_ip][version] = "7.x-1.0-rc2"
+;projects[restrict_ip][version] = "7.x-1.0-rc2"
 
-projects[revisioning][version] = "7.x-1.8"
+;projects[revisioning][version] = "7.x-1.8"
 
-projects[riddler][version] = "7.x-1.2"
+;projects[riddler][version] = "7.x-1.2"
 
-projects[rules][version] = "7.x-2.5"
+;projects[rules][version] = "7.x-2.5"
 
-projects[save_draft][version] = "7.x-1.4"
+;projects[save_draft][version] = "7.x-1.4"
 
-projects[scheduler][version] = "7.x-1.0"
+;projects[scheduler][version] = "7.x-1.0"
 
-projects[securepages][version] = "7.x-1.0-beta2"
+;projects[securepages][version] = "7.x-1.0-beta2"
 
-projects[site_map][version] = "7.x-1.0"
+;projects[site_map][version] = "7.x-1.0"
 
-projects[site_verify][version] = "7.x-1.0"
+;projects[site_verify][version] = "7.x-1.0"
 
-projects[smtp][version] = "7.x-1.0"
+;projects[smtp][version] = "7.x-1.0"
 
-projects[strongarm][version] = "7.x-2.0"
+;projects[strongarm][version] = "7.x-2.0"
 
-projects[styleguide][version] = "7.x-1.1"
+;projects[styleguide][version] = "7.x-1.1"
 
-projects[superfish][version] = "7.x-1.8"
+;projects[superfish][version] = "7.x-1.8"
 
 ;projects[taxonomy_display][version] = "7.x-1.1"
 
