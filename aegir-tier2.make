@@ -109,51 +109,51 @@ projects[google_analytics][version] = "7.x-1.3"
 
 projects[honeypot][version] = "7.x-1.16"
 
-projects[imce][version] = "7.x-1.6"
+;projects[imce][version] = "7.x-1.6"
 
-projects[imce_wysiwyg][version] = "7.x-1.0"
+;projects[imce_wysiwyg][version] = "7.x-1.0"
 
-projects[job_scheduler][version] = "7.x-2.0-alpha3"
+;projects[job_scheduler][version] = "7.x-2.0-alpha3"
 
-projects[jquery_plugin][version] = "7.x-1.0"
+;projects[jquery_plugin][version] = "7.x-1.0"
 
-projects[jquery_update][version] = "7.x-2.2"
+;projects[jquery_update][version] = "7.x-2.2"
 
-projects[ldap][version] = "7.x-2.0-beta8"
+;projects[ldap][version] = "7.x-2.0-beta8"
 
-projects[less][version] = "7.x-2.6"
+;projects[less][version] = "7.x-2.6"
 
-projects[libraries][version] = "7.x-2.0"
+;projects[libraries][version] = "7.x-2.0"
 
-projects[link][version] = "7.x-1.0"
+;projects[link][version] = "7.x-1.0"
 
-projects[linkchecker][version] = "7.x-1.1"
+;projects[linkchecker][version] = "7.x-1.1"
 
-projects[manual-crop][version] = "7.x-1.4"
+;projects[manual-crop][version] = "7.x-1.4"
 
-projects[media][version] = "7.x-1.4"
+;projects[media][version] = "7.x-1.4"
 
-projects[memcache][version] = "7.x-1.0"
+;projects[memcache][version] = "7.x-1.0"
 
-projects[menu_attributes][version] = "7.x-1.0-rc2"
+;projects[menu_attributes][version] = "7.x-1.0-rc2"
 
-projects[menu_block][version] = "7.x-2.3"
+;projects[menu_block][version] = "7.x-2.3"
 
-projects[menu_breadcrumb][version] = "7.x-1.3"
+;projects[menu_breadcrumb][version] = "7.x-1.3"
 
-projects[menu_position][version] = "7.x-1.1"
+;projects[menu_position][version] = "7.x-1.1"
 
-projects[menu_views][version] = "7.x-2.0"
+;projects[menu_views][version] = "7.x-2.0"
 
-projects[metatags_quick][version] = "7.x-2.5"
+;projects[metatags_quick][version] = "7.x-2.5"
 
-projects[module_filter][version] = "7.x-1.7"
+;projects[module_filter][version] = "7.x-1.7"
 
 ;projects[mollom][version] = "7.x-2.6"
 
-projects[node_clone][version] = "7.x-1.0-rc1"
+;projects[node_clone][version] = "7.x-1.0-rc1"
 
-projects[node_export][version] = "7.x-3.0"
+;projects[node_export][version] = "7.x-3.0"
 
 ;projects[oauth][version] = "7.x-3.1"
 
