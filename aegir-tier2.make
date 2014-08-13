@@ -15,11 +15,11 @@ projects[drupal][download][url] = "http://www.acquia.com/downloads/3191106/full/
 
 ; Modules
 
-projects[acquia_connector][version] = "7.x-2.14"
+;projects[acquia_connector][version] = "7.x-2.14"
 
-projects[acquia_purge][version] = "7.x-1.0-beta2"
+;projects[acquia_purge][version] = "7.x-1.0-beta2"
 
-;projects[adaptive_image][version] = "7.x-1.4"
+projects[adaptive_image][version] = "7.x-1.4"
 
 ;projects[admin_menu][version] = "7.x-3.0-rc3"
 
