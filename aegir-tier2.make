@@ -5,9 +5,10 @@ core = 7.x
 
 ; Acuiqa Drupal
 
-projects[acquia][type] = "core"
-projects[acquia][download][type] = "get"
-projects[acquia][download][url] = "https://www.acquia.com/downloads/3175681/full/tar.gz"
+projects[drupal][type] = "core"
+projects[drupal][download][type] = "get"
+;projects[acquia][download][url] = "https://www.acquia.com/downloads/3175681/full/tar.gz" ; ver.7.28
+projects[drupal][download][url] = "http://www.acquia.com/downloads/3191106/full/tar.gz" ; ver.7.31
 
 ; Modules
 
