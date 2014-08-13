@@ -251,7 +251,7 @@ projects[wysiwyg][version] = "7.x-2.1"
 
 projects[wysiwyg_filter][version] = "7.x-1.6-rc2"
 
-projects[xautoload][version] = "7.x-2.7"
+;projects[xautoload][version] = "7.x-2.7"
 
 libraries[respondjs][download][type] = get
 libraries[respondjs][download][url] = "http://assets.temple.edu/sites/assets/files/libraries/tier2/respondjs.tgz"
