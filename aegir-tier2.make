@@ -205,7 +205,7 @@ projects[site_map][version] = "7.x-1.0"
 
 projects[site_verify][version] = "7.x-1.0"
 
-;projects[smtp][version] = "7.x-1.0"
+projects[smtp][version] = "7.x-1.0"
 
 projects[strongarm][version] = "7.x-2.0"
 
