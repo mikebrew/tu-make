@@ -129,31 +129,31 @@ projects[link][version] = "7.x-1.0"
 
 projects[linkchecker][version] = "7.x-1.1"
 
-;projects[manual-crop][version] = "7.x-1.4"
+projects[manual-crop][version] = "7.x-1.4"
 
-;projects[media][version] = "7.x-1.4"
+projects[media][version] = "7.x-1.4"
 
-;projects[memcache][version] = "7.x-1.0"
+projects[memcache][version] = "7.x-1.0"
 
-;projects[menu_attributes][version] = "7.x-1.0-rc2"
+projects[menu_attributes][version] = "7.x-1.0-rc2"
 
-;projects[menu_block][version] = "7.x-2.3"
+projects[menu_block][version] = "7.x-2.3"
 
-;projects[menu_breadcrumb][version] = "7.x-1.3"
+projects[menu_breadcrumb][version] = "7.x-1.3"
 
-;projects[menu_position][version] = "7.x-1.1"
+projects[menu_position][version] = "7.x-1.1"
 
-;projects[menu_views][version] = "7.x-2.0"
+projects[menu_views][version] = "7.x-2.0"
 
-;projects[metatags_quick][version] = "7.x-2.5"
+projects[metatags_quick][version] = "7.x-2.5"
 
-;projects[module_filter][version] = "7.x-1.7"
+projects[module_filter][version] = "7.x-1.7"
 
 ;projects[mollom][version] = "7.x-2.6"
 
-;projects[node_clone][version] = "7.x-1.0-rc1"
+projects[node_clone][version] = "7.x-1.0-rc1"
 
-;projects[node_export][version] = "7.x-3.0"
+projects[node_export][version] = "7.x-3.0"
 
 ;projects[oauth][version] = "7.x-3.1"
 
