@@ -225,33 +225,33 @@ projects[extlink][version] = "7.x-1.12"
 
 ;projects[twitter][version] = "7.x-5.7"
 
-;projects[video][version] = "7.x-2.10"
+projects[video][version] = "7.x-2.10"
 
-;projects[views][version] = "7.x-3.8"
+projects[views][version] = "7.x-3.8"
 
-;projects[views_bulk_operations][version] = "7.x-3.1"
+projects[views_bulk_operations][version] = "7.x-3.1"
 
-;projects[views_litepager][version] = "7.x-3.0"
+projects[views_litepager][version] = "7.x-3.0"
 
-;projects[views_slideshow][version] = "7.x-3.0"
+projects[views_slideshow][version] = "7.x-3.0"
 
-;projects[webform][version] = "7.x-3.20"
+projects[webform][version] = "7.x-3.20"
 
-;projects[webform_conditional][version] = "7.x-1.0-beta1"
+projects[webform_conditional][version] = "7.x-1.0-beta1"
 
-;projects[webform_conditional_confirmation][version] = "7.x-1.0"
+projects[webform_conditional_confirmation][version] = "7.x-1.0"
 
-;projects[webform_rules][version] = "7.x-1.3"
+projects[webform_rules][version] = "7.x-1.3"
 
-;projects[webform_validation][version] = "7.x-1.4"
+projects[webform_validation][version] = "7.x-1.4"
 
-;projects[weight][version] = "7.x-2.1"
+projects[weight][version] = "7.x-2.1"
 
-;projects[wysiwyg][version] = "7.x-2.1"
+projects[wysiwyg][version] = "7.x-2.1"
 
-;projects[wysiwyg_filter][version] = "7.x-1.6-rc2"
+projects[wysiwyg_filter][version] = "7.x-1.6-rc2"
 
-;projects[xautoload][version] = "7.x-2.7"
+projects[xautoload][version] = "7.x-2.7"
 
 libraries[respondjs][download][type] = get
 libraries[respondjs][download][url] = "http://assets.temple.edu/sites/assets/files/libraries/tier2/respondjs.tgz"
