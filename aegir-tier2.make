@@ -67,19 +67,19 @@ projects[draggableviews][version] = "7.x-2.0"
 
 projects[ds][version] = "7.x-2.4"
 
-;projects[email][version] = "7.x-1.2"
+projects[email][version] = "7.x-1.2"
 
-;projects[empty_page][version] = "7.x-1.0"
+projects[empty_page][version] = "7.x-1.0"
 
-;projects[entity][version] = "7.x-1.4"
+projects[entity][version] = "7.x-1.4"
 
-;projects[entityreference][version] = "7.x-1.1"
+projects[entityreference][version] = "7.x-1.1"
 
-;projects[eva][version] = "7.x-1.2"
+projects[eva][version] = "7.x-1.2"
 
-;projects[expire][version] = "7.x-2.0-rc3"
+projects[expire][version] = "7.x-2.0-rc3"
 
-;projects[extlink][version] = "7.x-1.12"
+projects[extlink][version] = "7.x-1.12"
 
 ;projects[fast_404][version] = "7.x-1.3"
 
