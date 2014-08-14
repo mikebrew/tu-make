@@ -175,55 +175,55 @@ projects[extlink][version] = "7.x-1.12"
 
 ;projects[quicktabs][version] = "7.x-3.6"
 
-;projects[readonlymode][version] = "7.x-1.1"
+projects[readonlymode][version] = "7.x-1.1"
 
-;projects[recaptcha][version] = "7.x-1.8"
+projects[recaptcha][version] = "7.x-1.8"
 
-;projects[redirect][version] = "7.x-1.0-rc1"
+projects[redirect][version] = "7.x-1.0-rc1"
 
-;projects[references][version] = "7.x-2.0"
+projects[references][version] = "7.x-2.0"
 
-;projects[resp_img][version] = "7.x-1.3"
+projects[resp_img][version] = "7.x-1.3"
 
-;projects[respondjs][version] = "7.x-1.1"
+projects[respondjs][version] = "7.x-1.1"
 
-;projects[restrict_ip][version] = "7.x-1.0-rc2"
+projects[restrict_ip][version] = "7.x-1.0-rc2"
 
-;projects[revisioning][version] = "7.x-1.8"
+projects[revisioning][version] = "7.x-1.8"
 
-;projects[riddler][version] = "7.x-1.2"
+projects[riddler][version] = "7.x-1.2"
 
-;projects[rules][version] = "7.x-2.5"
+projects[rules][version] = "7.x-2.5"
 
-;projects[save_draft][version] = "7.x-1.4"
+projects[save_draft][version] = "7.x-1.4"
 
-;projects[scheduler][version] = "7.x-1.0"
+projects[scheduler][version] = "7.x-1.0"
 
-;projects[securepages][version] = "7.x-1.0-beta2"
+projects[securepages][version] = "7.x-1.0-beta2"
 
-;projects[site_map][version] = "7.x-1.0"
+projects[site_map][version] = "7.x-1.0"
 
-;projects[site_verify][version] = "7.x-1.0"
+projects[site_verify][version] = "7.x-1.0"
 
 ;projects[smtp][version] = "7.x-1.0"
 
-;projects[strongarm][version] = "7.x-2.0"
+projects[strongarm][version] = "7.x-2.0"
 
-;projects[styleguide][version] = "7.x-1.1"
+projects[styleguide][version] = "7.x-1.1"
 
-;projects[superfish][version] = "7.x-1.8"
+projects[superfish][version] = "7.x-1.8"
 
-;projects[taxonomy_display][version] = "7.x-1.1"
+projects[taxonomy_display][version] = "7.x-1.1"
 
-;projects[taxonomy_menu][version] = "7.x-1.4"
+projects[taxonomy_menu][version] = "7.x-1.4"
 
-;projects[temple_user_list][version] = "7.x-1.1"
+projects[temple_user_list][version] = "7.x-1.1"
 
-;projects[text_resize][version] = "7.x-1.7"
+projects[text_resize][version] = "7.x-1.7"
 
-;projects[token][version] = "7.x-1.4"
+projects[token][version] = "7.x-1.4"
 
-;projects[twitter][version] = "7.x-5.7"
+projects[twitter][version] = "7.x-5.7"
 
 projects[video][version] = "7.x-2.10"
 
