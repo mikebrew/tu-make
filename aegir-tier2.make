@@ -155,25 +155,25 @@ projects[node_clone][version] = "7.x-1.0-rc1"
 
 projects[node_export][version] = "7.x-3.0"
 
-;projects[oauth][version] = "7.x-3.1"
+projects[oauth][version] = "7.x-3.1"
 
-;projects[omega_tools][version] = "7.x-3.0-rc4"
+projects[omega_tools][version] = "7.x-3.0-rc4"
 
-;projects[override_node_options][version] = "7.x-1.12"
+projects[override_node_options][version] = "7.x-1.12"
 
-;projects[page_title][version] = "7.x-2.7"
+projects[page_title][version] = "7.x-2.7"
 
-;projects[panels][version] = "7.x-3.3"
+projects[panels][version] = "7.x-3.3"
 
-;projects[pathauto][version] = "7.x-1.2"
+projects[pathauto][version] = "7.x-1.2"
 
-;projects[profile2][version] = "7.x-1.2"
+projects[profile2][version] = "7.x-1.2"
 
-;projects[profile2_regpath][version] = "7.x-1.10"
+projects[profile2_regpath][version] = "7.x-1.10"
 
-;projects[quickbar][version] = "7.x-2.0-beta1"
+projects[quickbar][version] = "7.x-2.0-beta1"
 
-;projects[quicktabs][version] = "7.x-3.6"
+projects[quicktabs][version] = "7.x-3.6"
 
 projects[readonlymode][version] = "7.x-1.1"
 
