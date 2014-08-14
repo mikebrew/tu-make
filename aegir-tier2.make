@@ -103,7 +103,7 @@ projects[fontyourface][version] = "7.x-2.5"
 
 projects[front][version] = "7.x-2.1"
 
-;projects[globalredirect][version] = "7.x-1.5"
+projects[globalredirect][version] = "7.x-1.5"
 
 projects[google_analytics][version] = "7.x-1.3"
 
