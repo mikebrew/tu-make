@@ -29,7 +29,7 @@ projects[advanced_help][version] = "7.x-1.0"
 
 projects[auto_nodetitle][version] = "7.x-1.0"
 
-projects[backup_migrate][version] = "7.x-2.4"
+;projects[backup_migrate][version] = "7.x-2.4"
 
 projects[bean][version] = "7.x-1.7"
 
@@ -41,7 +41,7 @@ projects[calendar][version] = "7.x-3.4"
 
 projects[captcha][version] = "7.x-1.0-beta2"
 
-projects[ckeditor][version] = "7.x-1.9"
+;projects[ckeditor][version] = "7.x-1.9"
 
 projects[ckeditor_link][version] = "7.x-2.2"
 
