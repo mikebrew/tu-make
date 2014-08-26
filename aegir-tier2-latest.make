@@ -23,7 +23,7 @@ projects[] = adaptive_image
 
 projects[] = admin_menu
 
-projects[] = admin_view
+;projects[] = admin_view ;Does not exist
 
 projects[] = advanced_help
 
@@ -217,7 +217,7 @@ projects[] = taxonomy_display
 
 projects[] = taxonomy_menu
 
-;projects[temple_user_list][version] = "7.x-1.1"
+;projects[temple_user_list][version] = "7.x-1.1" ;Does not exist
 
 projects[] = text_resize
 
@@ -249,7 +249,9 @@ projects[] = weight
 
 projects[] = wysiwyg
 
-projects[] = wysiwyg_filter
+projects[wysiwyg_filter][download][type] = get
+projects[wysiwyg_filter][download][url] = http://ftp.drupal.org/files/projects/wysiwyg_filter-7.x-1.6-rc2.tar.gz
+projects[wysiwyg_filter][destination] = modules
 
 ;projects[] = xautoload
 
