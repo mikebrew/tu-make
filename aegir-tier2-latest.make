@@ -33,7 +33,7 @@ projects[] = auto_nodetitle
 
 projects[] = bean
 
-projects[block_class][version] = "7.x-1.1"
+projects[block_class][version] = 1.1
 
 projects[] = blockify
 
@@ -159,7 +159,7 @@ projects[] = oauth
 
 projects[] = omega_tools
 
-projects[override_node_options][version] = "7.x-1.12"
+projects[] = override_node_options
 
 projects[] = page_title
 
@@ -241,9 +241,9 @@ projects[] = webform_conditional
 
 projects[] = webform_conditional_confirmation
 
-projects[webform_rules][version] = "7.x-1.3"
+projects[webform_rules][version] = 1.3
 
-projects[webform_validation][version] = "7.x-1.4"
+projects[webform_validation][version] = 1.4
 
 projects[] = weight
 
@@ -251,7 +251,7 @@ projects[] = wysiwyg
 
 projects[] = wysiwyg_filter
 
-projects[] = xautoload
+;projects[] = xautoload
 
 libraries[respondjs][download][type] = get
 libraries[respondjs][download][url] = "http://assets.temple.edu/sites/assets/files/libraries/tier2/respondjs.tgz"
