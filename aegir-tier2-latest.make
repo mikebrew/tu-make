@@ -53,7 +53,7 @@ projects[] = conditional_styles
 
 projects[] = context
 
-projects[] = ctoools
+projects[] = ctools
 
 projects[] = date
 
