@@ -7,7 +7,7 @@ core = 7.x
 
 projects[acquia][type] = "core"
 projects[acquia][download][type] = "get"
-projects[acquia][download][url] = "https://www.acquia.com/downloads/3191106/full/tar.gz"
+projects[acquia][download][url] = "https://www.acquia.com/downloads/3210426/full/tar.gz"
 
 ; Modules
 
