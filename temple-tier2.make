@@ -221,7 +221,7 @@ projects[text_resize][version] = "1.7"
 
 projects[token][version] = "1.4"
 
-projects[tu_global][version] = "1.0-dev"
+;projects[tu_global][version] = "1.0-dev"
 
 projects[twitter][version] = "5.7"
 
