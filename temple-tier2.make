@@ -4,16 +4,20 @@ api = 2
 core = 7.x
 
 ; Acuiqa Drupal
+;projects[acquia][type] = "core"
+;projects[acquia][download][type] = "get"
+;projects[acquia][download][url] = "https://www.acquia.com/downloads/3191106/full/tar.gz"
 
-projects[acquia][type] = "core"
-projects[acquia][download][type] = "get"
-projects[acquia][download][url] = "https://www.acquia.com/downloads/3191106/full/tar.gz"
+;via Drupal.org
+projects[drupal][type] = "core"
+projects[drupal][download][type] = "get"
+projects[drupal][download][url] = "http://ftp.drupal.org/files/projects/drupal-7.34.tar.gz"
 
 ; Modules
 
-projects[acquia_connector][version] = "2.14"
+;projects[acquia_connector][version] = "2.14"
 
-projects[acquia_purge][version] = "1.0-beta2"
+;projects[acquia_purge][version] = "1.0-beta2"
 
 projects[adaptive_image][version] = "1.4"
 
