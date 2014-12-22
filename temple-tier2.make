@@ -7,7 +7,7 @@ core = 7.x
 
 projects[acquia][type] = "core"
 projects[acquia][download][type] = "get"
-projects[acquia][download][url] = "https://www.acquia.com/downloads/3210426/full/tar.gz"
+projects[acquia][download][url] = "https://www.acquia.com/downloads/3191106/full/tar.gz"
 
 ; Modules
 
@@ -37,7 +37,7 @@ projects[calendar][version] = "3.4"
 
 projects[captcha][version] = "1.0-beta2"
 
-projects[ckeditor][version] = "1.9"
+projects[ckeditor][version] = "1.16"
 
 projects[ckeditor_link][version] = "2.2"
 
@@ -51,7 +51,7 @@ projects[context][version] = "3.2"
 
 projects[ctools][version] = "1.4"
 
-projects[date][version] = "2.6"
+projects[date][version] = "2.8"
 
 projects[ddblock][version] = "1.0"
 
@@ -105,6 +105,8 @@ projects[google_analytics][version] = "1.3"
 
 projects[honeypot][version] = "1.16"
 
+projects[htmlpurifier][version] = "1.0"
+
 projects[imce][version] = "1.6"
 
 projects[imce_wysiwyg][version] = "1.0"
@@ -149,7 +151,7 @@ projects[metatags_quick][version] = "2.5"
 
 projects[module_filter][version] = "1.7"
 
-projects[mollom][version] = "2.6"
+projects[mollom][version] = "2.12"
 
 projects[node_clone][version] = "1.0-rc1"
 
@@ -197,7 +199,7 @@ projects[rules][version] = "2.5"
 
 projects[save_draft][version] = "1.4"
 
-projects[scheduler][version] = "1.0"
+projects[scheduler][version] = "1.3"
 
 projects[securepages][version] = "1.0-beta2"
 
@@ -221,7 +223,7 @@ projects[text_resize][version] = "1.7"
 
 projects[token][version] = "1.4"
 
-;projects[tu_global][version] = "1.0-dev"
+projects[tu_global][version] = "1.0-dev"
 
 projects[twitter][version] = "5.7"
 
